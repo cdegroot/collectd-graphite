@@ -200,3 +200,5 @@ DEBUG = False
 # MIDDLEWARE_CLASSES or APPS
 #from graphite.app_settings import *
 
+SECRET_KEY = 'NmQELrQke+E2SOZMBHVRh/ZjfN7BEzhWNuTLgRDvMJTgwirQ0Ch0/Q=='
+
